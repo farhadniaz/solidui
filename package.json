@@ -1,0 +1,9 @@
+{
+  "name": "solidui",
+  "version": "0.0.0",
+  "description": "Solidjs UI Library",
+  "main": "index.js",
+  "repository": "git@github.com:farhadniaz/solidui.git",
+  "author": "Farhad Azarbarzinniaz",
+  "license": "MIT"
+}
